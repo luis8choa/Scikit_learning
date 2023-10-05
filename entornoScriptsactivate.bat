@@ -1,0 +1,1 @@
+source entorno/bin/activate
